@@ -4,8 +4,20 @@ cd
 
 apt-get update
 
-git clone https://github.com/arismelachroinos/lscript.git
+git clone https://github.com/icammaci/lazy-script-kali-linux
 
+cd lazy-script-kali-linux
+
+ls
+
+unzip lazy-script-kali-linux.zip
+
+ls
+
+cd lazy-script-kali-linux
+ 
+ls
+ 
 cd lscript
 
 chmod +x install.sh
